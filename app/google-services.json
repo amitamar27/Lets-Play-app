@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930784368514",
+    "firebase_url": "https://letsplay2-7acd2.firebaseio.com",
+    "project_id": "letsplay2-7acd2",
+    "storage_bucket": "letsplay2-7acd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930784368514:android:8601937851a09a4160619b",
+        "android_client_info": {
+          "package_name": "com.example.letsplay2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930784368514-8sj9e2mkq6v2kt0m1hfk3jnfl0vgekik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsplay2",
+            "certificate_hash": "8d2d15330590623116b2fbf1a4fd34c5e219ac50"
+          }
+        },
+        {
+          "client_id": "930784368514-u990qgkahn3p014f8lv51fvjcg8hlhss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGOUS-YpTp3yIZVlGh7NYVPPyT-Fi1Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930784368514-u990qgkahn3p014f8lv51fvjcg8hlhss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
